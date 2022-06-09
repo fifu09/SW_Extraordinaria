@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItems>
+  <assessmentItem subject="Web" author="jvadillo001@ikasle.ehu.eus">
+    <itemBody>
+      <p>Tag HTML para añadir un formulario</p>
+    </itemBody>
+    <correctResponse>
+      <response>
+				FORM
+			</response>
+    </correctResponse>
+    <incorrectResponses>
+      <response> OBJECT </response>
+      <response> TABLE </response>
+      <response> DIV </response>
+    </incorrectResponses>
+  </assessmentItem>
+  <assessmentItem subject="Internet" author="rarruabarrena001@ikasle.ehu.eus">
+    <itemBody>
+      <p>Este protocolo acabará funcionando
+			incluso entre dos latas unidas por un cordón</p>
+    </itemBody>
+    <correctResponse>
+      <response>
+				TCP/IP
+			</response>
+    </correctResponse>
+    <incorrectResponses>
+      <response> HTTP </response>
+      <response> SMTP </response>
+      <response> Ninguna es correcta </response>
+    </incorrectResponses>
+  </assessmentItem>
+  <assessmentItem subject="pepe" author="pepe123@ikasle.ehu.es">
+    <itemBody>
+      <p>pepepepepepepe</p>
+    </itemBody>
+    <correctResponse>
+      <response>pepe</response>
+    </correctResponse>
+    <incorrectResponses>
+      <response>pepepepe</response>
+      <response>pepepepepe</response>
+      <response>pe</response>
+    </incorrectResponses>
+  </assessmentItem>
+  <assessmentItem subject="Esto es un infierno" author="vadillo@ehu.es">
+    <itemBody>
+      <p>me dara tiempo a estudiar todo?</p>
+    </itemBody>
+    <correctResponse>
+      <response>Es complicado</response>
+    </correctResponse>
+    <incorrectResponses>
+      <response>no </response>
+      <response>puede ser </response>
+      <response>suerte crack</response>
+    </incorrectResponses>
+  </assessmentItem>
+  <assessmentItem subject="Complicao" author="vadillo@ehu.es">
+    <itemBody>
+      <p>aprobaré sistemas web?</p>
+    </itemBody>
+    <correctResponse>
+      <response>quizas</response>
+    </correctResponse>
+    <incorrectResponses>
+      <response>no</response>
+      <response>puede ser</response>
+      <response>ojala</response>
+    </incorrectResponses>
+  </assessmentItem>
+  <assessmentItem subject="asd" author="vadillo@ehu.es">
+    <itemBody>
+      <p>asdasdasdasd</p>
+    </itemBody>
+    <correctResponse>
+      <response>asdasda</response>
+    </correctResponse>
+    <incorrectResponses>
+      <response>asdas</response>
+      <response>das</response>
+      <response>dasdas</response>
+    </incorrectResponses>
+  </assessmentItem>
+</assessmentItems>
